@@ -1,3 +1,0 @@
-[submodule "hello-flask"]
-	path = hello-flask
-	url = https://github.com/SimonLaw21/hello-flask
